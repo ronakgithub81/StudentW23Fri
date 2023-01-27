@@ -7,6 +7,7 @@ import java.util.Scanner;
  *hello there
  * @author Ronak
  added comment for PULL
+ added comments for PULL command at 12:37 PM 
  */
 public class ReverseWord {
     public static void main(String[] args){
